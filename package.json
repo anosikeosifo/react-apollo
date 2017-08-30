@@ -1,0 +1,14 @@
+{
+  "name": "graphql-app",
+  "version": "1.0.0",
+  "description": "Application built while following the howtographql tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Anosike Osifo",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^1.4.0"
+  }
+}
